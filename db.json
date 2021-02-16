@@ -1,0 +1,7 @@
+{
+  "todos": [
+    {"id":0, "text":"bersih bersih", "completed": false},    
+    {"id":1, "text":"belajar", "completed": false},    
+    {"id":2, "text":"menyapu", "completed": false}    
+  ]
+}
